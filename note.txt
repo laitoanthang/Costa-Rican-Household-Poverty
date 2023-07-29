@@ -1,0 +1,31 @@
+Training set:
+*	Drop cột Id
+* Missing observations 9557
+* Missing cells: 1.6%
+* v2a1: missing, high correlation
+* 
+
+
+* categorical col
+* numerical col:
+
+Cao nhat: F1 score macro:  0.8955711846915563
+
+* Lan 1
+Name	Accuracy score	F1 score macro
+0	Gaussian Naive Bayes	20.97%	18.79%
+1	Random Forest	93.1%	89.49%
+2	K-Nearest Neighbors Classifier	79.45%	68.91%
+3	Neural Networks	84.88%	77.58%
+4	Gradient Boosting Classifier	75.68%	60.06%
+5	Support Vector Machines Classifier	76.1%	58.6%
+6	LGBM Classifier	90.85%	86.19%
+
+Name	Accuracy score	F1 score macro
+0	Gaussian Naive Bayes	21.13%	19.04%
+1	Random Forest	92.99%	89.44%
+2	K-Nearest Neighbors Classifier	80.54%	71.0%
+3	Neural Networks	84.57%	76.81%
+4	Gradient Boosting Classifier	76.1%	61.07%
+5	Support Vector Machines Classifier	76.41%	59.14%
+6	LGBM Classifier	90.48%	85.59%
